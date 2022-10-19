@@ -2,9 +2,9 @@
 	"name": "freecodecamp-exercise-tracker",
 	"version": "0.1.0",
 	"description": "freeCodeCamp: Challenge Exercise Tracker",
-	"main": "server.js",
+	"main": "index.js",
 	"scripts": {
-		"start": "nodemon index.js"
+		"start": "node index.js"
 	},
 	"dependencies": {
 		"body-parser": "^1.15.2",
